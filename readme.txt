@@ -19,3 +19,11 @@ git commit -m "first commit"
 git remote add origin <githib url link>
 git push origin master 
 
+deploy in streamlit! Don't forget advanced settings and add your api key, same format as secrets.toml
+
+|reach app here|https://studdybuddyuta.streamlit.app/|
+https://studdybuddyuta.streamlit.app/
+
+to push changes, git add .
+git commit -m "second/third/etc commit"
+git push origin master 

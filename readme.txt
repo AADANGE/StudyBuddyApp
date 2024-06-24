@@ -21,8 +21,8 @@ git push origin master
 
 deploy in streamlit! Don't forget advanced settings and add your api key, same format as secrets.toml
 
-|reach app here|https://studdybuddyuta.streamlit.app/|
-https://studdybuddyuta.streamlit.app/
+|reach app here|https://studybuddyuta.streamlit.app/|
+https://studybuddyuta.streamlit.app/
 
 to push changes, git add .
 git commit -m "second/third/etc commit"
